@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **darrylrusli96@gmail.com**
 
-- ⚡ Fun fact **Outside of work, you can see me watching Netflix, playing FPS video game, and**
+- ⚡ Fun fact **Outside of work, you can see me watching Netflix, playing FPS video game, and bushwalking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
