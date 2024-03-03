@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Darryl Rusli</h1>
 <h3 align="left">I am graduate of UTS Accredited Certification in Data Science.</h3>
 
-- 🔭 I have proven track in [food import analytic](https://github.com/darrylrusli/food_import_analytic) which involved comprehensive data preparation/cleaning using Python (Pandas & Regex) that contains food import that was rejected after the inspection to enter the country prior to generating the insights using Tableau where I have identified 2 food manufacturers from India which significantly raise the number of food import that was rejected to enter Australia which helps the Department of Agriculture to reduce food import that fails during the inspection and make the food supplier to comply with Australian Food Regulation better.
+- 🔭 I have proven track in [food import analytic](https://github.com/darrylrusli/food_import_analytic) where I have generated the insights where the food suppliers failed to comply with Australian Food Regulations by visualising the data and dashboard reporting using Tableau which led to prevention on food poisoning due to import undeclared / uninspected and better compliance food supplier.
 
 - 🌱 I’m currently learning **Cloud Computing Platform such as Azure**
 
